@@ -1,0 +1,16 @@
+org\example\Amphibian.class
+org\example\Attraction.class
+org\example\Admin.class
+org\example\Menu.class
+org\example\SpecialDeals.class
+org\example\AttractionIdGenerator.class
+org\example\Feedback.class
+org\example\Discount.class
+org\example\Auth.class
+org\example\Main.class
+org\example\Mammal.class
+org\example\Discounting.class
+org\example\userInfo.class
+org\example\Visitor.class
+org\example\Animal.class
+org\example\Reptile.class
